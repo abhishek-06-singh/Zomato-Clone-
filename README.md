@@ -7,7 +7,7 @@ I am a web developer with a vast array of knowledge in many different front end 
 **Client:** ReactJs, JavaScript, HTML, CSS
 
 ## Deployed Project
-
+https://www.canva.com/design/DAFYeIb3dsY/watch
 You can see the live project by visiting this link down below.
 
 # 👇
