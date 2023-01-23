@@ -7,14 +7,10 @@ I am a web developer with a vast array of knowledge in many different front end 
 **Client:** ReactJs, JavaScript, HTML, CSS
 
 ## Deployed Project
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFYeIb3dsY&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFYeIb3dsY&#x2F;watch?utm_content=DAFYeIb3dsY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">NETFILX CLONE</a> by abhishek singh chauhan
+![image](https://user-images.githubusercontent.com/115978151/213997656-40ae050e-ed0e-4fef-b639-0383a7a4b0cf.png)
+
+![image](https://user-images.githubusercontent.com/115978151/213997585-63d8e8bc-b2ad-4aba-aeb4-4593e46b3bd9.png)
+
 You can see the live project by visiting this link down below.
 
 # 👇
