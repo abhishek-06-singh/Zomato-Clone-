@@ -7,11 +7,9 @@ I am a web developer with a vast array of knowledge in many different front end 
 **Client:** ReactJs, JavaScript, HTML, CSS
 
 ## Deployed Project
-![image](https://user-images.githubusercontent.com/115978151/213997656-40ae050e-ed0e-4fef-b639-0383a7a4b0cf.png)
-
-![image](https://user-images.githubusercontent.com/115978151/213997585-63d8e8bc-b2ad-4aba-aeb4-4593e46b3bd9.png)
 
 You can see the live project by visiting this link down below.
+![screenshot (9)](https://user-images.githubusercontent.com/115978151/232376239-fce3eea6-29b3-4207-bfbd-8238ab2f2510.png)
 
 # 👇
 
