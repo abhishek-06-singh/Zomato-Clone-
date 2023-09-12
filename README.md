@@ -9,7 +9,8 @@ I am a web developer with a vast array of knowledge in many different front end 
 ## Deployed Project
 
 You can see the live project by visiting this link down below.
-![screenshot (9)](https://user-images.githubusercontent.com/115978151/232376239-fce3eea6-29b3-4207-bfbd-8238ab2f2510.png)
+![screens![Screenshot Capture - 2023-09-12 - 15-26-07](https://github.com/abhishek-06-singh/Zomato-Clone-/assets/115978151/9fba7699-bccd-426a-aea0-74534fa94ede)
+hot (9)](https://user-images.githubusercontent.com/115978151/232376239-fce3eea6-29b3-4207-bfbd-8238ab2f2510.png)
 
 # 👇
 
